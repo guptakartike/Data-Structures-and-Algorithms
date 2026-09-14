@@ -19,9 +19,18 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
