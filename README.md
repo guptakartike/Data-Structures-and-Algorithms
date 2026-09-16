@@ -10,6 +10,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0203-remove-linked-list-elements) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
