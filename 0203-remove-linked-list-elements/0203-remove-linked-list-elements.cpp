@@ -16,9 +16,9 @@ public:
         dummy->next=head;
         while(temp!=NULL && temp->next!=NULL){
             if(temp->next->val==val){
-                ListNode*delNode = temp->next;
+                // ListNode*delNode = temp->next;
                 temp->next=temp->next->next;
-                delete(delNode);
+                
             }
             else temp=temp->next;
         }
