@@ -35,11 +35,13 @@
 | [0002-add-two-numbers](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
+| [0203-remove-linked-list-elements](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
+| [0203-remove-linked-list-elements](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
 | ------- |
