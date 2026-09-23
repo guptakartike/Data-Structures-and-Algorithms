@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
@@ -86,5 +88,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
