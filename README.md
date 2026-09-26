@@ -66,11 +66,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0496-next-greater-element-i](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0844-backspace-string-compare) |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
