@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 ## Newton's Method
@@ -50,6 +51,7 @@
 | [0002-add-two-numbers](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
