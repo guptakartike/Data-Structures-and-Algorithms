@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0496-next-greater-element-i](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0844-backspace-string-compare) |
 ## Sorting
