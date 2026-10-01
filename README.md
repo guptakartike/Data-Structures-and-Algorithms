@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
@@ -126,5 +127,6 @@
 | ------- |
 | [0136-single-number](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
