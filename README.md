@@ -32,6 +32,7 @@
 | [0050-powx-n](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 ## Newton's Method
 |  |
@@ -58,6 +59,7 @@
 | [0050-powx-n](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
