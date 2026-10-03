@@ -49,6 +49,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
+| [0086-partition-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
@@ -69,6 +70,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0031-next-permutation) |
+| [0086-partition-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0086-partition-list) |
 | [0344-reverse-string](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0844-backspace-string-compare) |
 ## Sorting
