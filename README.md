@@ -19,6 +19,7 @@
 | [0739-daily-temperatures](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
@@ -137,6 +138,7 @@
 | [0137-single-number-ii](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0342-power-of-four) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0232-implement-queue-using-stacks) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -167,4 +170,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
