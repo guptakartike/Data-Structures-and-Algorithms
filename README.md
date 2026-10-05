@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0326-power-of-three) |
@@ -86,6 +87,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0496-next-greater-element-i](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -93,6 +95,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
