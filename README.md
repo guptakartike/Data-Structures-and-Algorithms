@@ -19,6 +19,7 @@
 | [0739-daily-temperatures](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -102,6 +103,7 @@
 | [0443-string-compression](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Stack
