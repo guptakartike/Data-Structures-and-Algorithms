@@ -19,6 +19,7 @@
 | [0739-daily-temperatures](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -93,6 +94,7 @@
 | [0344-reverse-string](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Stack
 |  |
 | ------- |
