@@ -18,6 +18,7 @@
 | [0682-baseball-game](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -42,6 +43,7 @@
 | [0326-power-of-three](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 ## Newton's Method
 |  |
 | ------- |
@@ -191,4 +193,20 @@
 |  |
 | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
