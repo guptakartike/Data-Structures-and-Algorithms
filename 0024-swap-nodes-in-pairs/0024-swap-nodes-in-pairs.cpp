@@ -10,20 +10,13 @@
  */
 class Solution {
 public:
-
-    ListNode * func(ListNode* &head){
-        if(head==NULL || head->next==NULL) return head;
-        ListNode *nextHead=func(head->next->next);
-        ListNode *newHead=head->next;
-        newHead=head->next;
-        head->next->next=head;
-        head->next=NULL;
-        
-        head->next=nextHead;
-        return newHead;
-    }
-
     ListNode* swapPairs(ListNode* head) {
-        return func(head);
+        if(head==NULL || head->next==NULL) return head;
+        ListNode * front = head->next;
+        ListNode * curr = head;
+        ListNode * newHead = swapPairs(front->next);
+        curr->next=newHead;
+        front->next=curr;
+        return front;
     }
 };
