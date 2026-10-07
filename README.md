@@ -60,6 +60,7 @@
 | [0086-partition-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0725-split-linked-list-in-parts) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -71,6 +72,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0342-power-of-four) |
 ## Two Pointers
