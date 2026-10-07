@@ -121,6 +121,7 @@
 | [0020-valid-parentheses](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -217,4 +218,16 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
