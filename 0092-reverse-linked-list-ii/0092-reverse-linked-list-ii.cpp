@@ -10,32 +10,47 @@
  */
 class Solution {
 public:
-    ListNode* reverseBetween(ListNode* head, int left, int right) {
-        
-        ListNode *dummy=new ListNode(-1);
+    ListNode * rev(ListNode *head){
+        if(head==NULL || head->next==NULL){
+            return head;
+        }
+        ListNode * newHead = rev(head->next);
+        ListNode * front = head->next;
+        front->next=head;
+        head->next=NULL;
+        return newHead;
+    }
+    ListNode* reverseBetween(ListNode* head, int a, int b) {
+        ListNode * dummy = new ListNode(-1);
+        ListNode * prev = dummy;
         dummy->next=head;
-        ListNode* recHead=dummy;
-        int pos=left;
-        while(pos>1){
-            recHead=recHead->next;
-            pos--;
-        }
-
-        ListNode* temp = recHead->next;
-        ListNode * prev = nullptr;
-     
-        int count = right-left+1;
         
-        while(count){
-            ListNode * front = temp->next;
-            temp->next = prev;
-            prev=temp;
-            temp=front;  
-            count--;         
+        while(a!=1){
+            prev=prev->next;
+            a--,b--;
         }
-        recHead->next->next=temp;
-        recHead->next=prev;
+        ListNode * temp = prev->next;
+        prev->next=NULL;
+        ListNode * tempHead = temp;
+        
+        while(b!=1){
+            temp=temp->next;
+            b--;
+        }
+        
+        ListNode *tempTail=temp;
+        ListNode * tail = tempTail->next;
+        tempTail->next = NULL;
+        
+        
+        ListNode * newHead=rev(tempHead);
+        prev->next=newHead;
+        
+        temp=dummy;
+        while(temp->next!=NULL){
+            temp=temp->next;
+        }
+        temp->next=tail;
         return dummy->next;
-
     }
 };
