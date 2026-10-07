@@ -60,6 +60,7 @@
 | [0061-rotate-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
@@ -73,6 +74,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0326-power-of-three) |
@@ -84,6 +86,7 @@
 | [0031-next-permutation](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0844-backspace-string-compare) |
@@ -117,6 +120,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
