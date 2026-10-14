@@ -228,14 +228,17 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -244,4 +247,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
