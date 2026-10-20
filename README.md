@@ -13,6 +13,7 @@
 | [0137-single-number-ii](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
@@ -151,6 +152,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
@@ -259,5 +261,6 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
+| [0498-diagonal-traverse](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0498-diagonal-traverse) |
 | [1329-sort-the-matrix-diagonally](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1329-sort-the-matrix-diagonally) |
 <!---LeetCode Topics End-->
