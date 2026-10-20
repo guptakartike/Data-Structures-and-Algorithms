@@ -21,6 +21,7 @@
 | [0875-koko-eating-bananas](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1329-sort-the-matrix-diagonally](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1329-sort-the-matrix-diagonally) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
+| [1329-sort-the-matrix-diagonally](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1329-sort-the-matrix-diagonally) |
 ## Hash Table
 |  |
 | ------- |
@@ -257,4 +259,5 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
+| [1329-sort-the-matrix-diagonally](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1329-sort-the-matrix-diagonally) |
 <!---LeetCode Topics End-->
