@@ -115,6 +115,7 @@
 | [0012-integer-to-roman](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -217,6 +220,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0877-stone-game](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 ## Minimax
 |  |
