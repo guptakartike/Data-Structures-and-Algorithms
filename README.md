@@ -95,6 +95,7 @@
 | [0344-reverse-string](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0844-backspace-string-compare) |
+| [2000-reverse-prefix-of-word](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [1544-make-the-string-great](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2000-reverse-prefix-of-word](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Stack
 |  |
@@ -143,6 +145,7 @@
 | [0844-backspace-string-compare](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1544-make-the-string-great](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1544-make-the-string-great) |
+| [2000-reverse-prefix-of-word](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
 |  |
 | ------- |
