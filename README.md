@@ -245,6 +245,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
+| [1609-even-odd-tree](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -256,6 +257,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
+| [1609-even-odd-tree](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1609-even-odd-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -269,6 +271,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
+| [1609-even-odd-tree](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1609-even-odd-tree) |
 ## Matrix
 |  |
 | ------- |
