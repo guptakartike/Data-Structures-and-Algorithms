@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
@@ -86,6 +87,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
@@ -99,6 +101,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0018-4sum) |
 | [0451-sort-characters-by-frequency](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1329-sort-the-matrix-diagonally](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1329-sort-the-matrix-diagonally) |
