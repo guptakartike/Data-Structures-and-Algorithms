@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -108,6 +109,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0451-sort-characters-by-frequency](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
