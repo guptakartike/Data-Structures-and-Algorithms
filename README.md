@@ -124,6 +124,7 @@
 | [0020-valid-parentheses](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0165-compare-version-numbers](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0165-compare-version-numbers) |
+| [0257-binary-tree-paths](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
@@ -179,6 +180,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -250,18 +252,21 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [1609-even-odd-tree](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [1609-even-odd-tree](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1609-even-odd-tree) |
 ## Bucket Sort
 |  |
