@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0260-single-number-iii) |
@@ -112,6 +113,7 @@
 | [0001-two-sum](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0451-sort-characters-by-frequency](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -208,6 +210,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -250,6 +253,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
@@ -264,6 +268,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
