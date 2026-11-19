@@ -151,6 +151,7 @@
 | [0682-baseball-game](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1544-make-the-string-great](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/2000-reverse-prefix-of-word) |
@@ -177,6 +178,7 @@
 | [0496-next-greater-element-i](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0901-online-stock-span) |
 ## Backtracking
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -293,4 +296,8 @@
 | [0048-rotate-image](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0498-diagonal-traverse) |
 | [1329-sort-the-matrix-diagonally](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/1329-sort-the-matrix-diagonally) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
