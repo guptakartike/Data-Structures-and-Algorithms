@@ -47,6 +47,7 @@
 | [0048-rotate-image](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0069-sqrtx) |
+| [0224-basic-calculator](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
@@ -84,6 +85,7 @@
 | [0143-reorder-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0342-power-of-four) |
 ## Two Pointers
@@ -126,6 +128,7 @@
 | [0020-valid-parentheses](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0165-compare-version-numbers](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0165-compare-version-numbers) |
+| [0224-basic-calculator](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
@@ -144,6 +147,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [0224-basic-calculator](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/guptakartike/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
