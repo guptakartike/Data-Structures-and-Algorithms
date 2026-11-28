@@ -11,7 +11,7 @@ public:
             if (isBadVersion(mid)) {
                 ans = mid;
                 end = mid - 1;
-            } else if (!isBadVersion(mid)) {
+            } else {
                 start = mid + 1;
             }
         }
